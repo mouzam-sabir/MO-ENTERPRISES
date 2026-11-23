@@ -1,0 +1,17 @@
+{
+  "name": "mo-enterprises",
+  "version": "1.0.0",
+  "description": "MO ENTERPRISES — Corporate Portfolio Website",
+  "main": "index.html",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js",
+    "serve": "serve -l 3000",
+    "build": "node -c js/script.js"
+  },
+  "author": "MO ENTERPRISES",
+  "license": "ISC",
+  "devDependencies": {
+    "serve": "^14.2.4"
+  }
+}
